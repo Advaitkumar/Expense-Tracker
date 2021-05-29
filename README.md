@@ -4,7 +4,7 @@ Description:
 You are now free from your own expense issues,here comes a Daily Expense Tracker ,to solve your Real time problems.
 Benefits of this tracker system,
 
-   1.Tracks your expense daily/n
+   1.Tracks your expense daily</br>
    2.User friendly/n
    3.Helps to manage your expenses efficiently/n
    4.Decrease your expenditure by sector-wise report/n
