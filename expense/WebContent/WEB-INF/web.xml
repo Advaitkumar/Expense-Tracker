@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>expense</display-name>
+   
+  <welcome-file-list>
+    <welcome-file>welcome.html</welcome-file>
+    <welcome-file>sign.jsp</welcome-file>
+    <welcome-file>reg.jsp</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>login.jsp</welcome-file>
+    <welcome-file>validate.jsp</welcome-file>
+    <welcome-file>onboard.jsp</welcome-file>
+     <welcome-file>ontake.jsp</welcome-file>
+     <welcome-file>planupd.jsp</welcome-file>
+    <welcome-file>acdetail.html</welcome-file>
+    <welcome-file>main.jsp</welcome-file>
+    <welcome-file>report.jsp</welcome-file>
+   
+  </welcome-file-list>
+   
+</web-app>
